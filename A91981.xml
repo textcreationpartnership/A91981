@@ -1,0 +1,691 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The souldiers catechisme: composed for the Parliaments Army: consisting of two parts: wherein are chiefly taught: 1 the iustification 2 the qualification of our souldiers. Written for the incouragement and instruction of all that have taken up armes in this cause of God and his people; especially the common souldiers. Imprimatur. Ja. Cranford.</title>
+            <author>Ram, Robert, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91981</idno>
+            <idno type="STC">Wing R196</idno>
+            <idno type="STC">Thomason E1186_1</idno>
+            <idno type="STC">ESTC R208219</idno>
+            <idno type="EEBO-CITATION">99867188</idno>
+            <idno type="PROQUEST">99867188</idno>
+            <idno type="VID">169445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91981)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169445)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The souldiers catechisme: composed for the Parliaments Army: consisting of two parts: wherein are chiefly taught: 1 the iustification 2 the qualification of our souldiers. Written for the incouragement and instruction of all that have taken up armes in this cause of God and his people; especially the common souldiers. Imprimatur. Ja. Cranford.</title>
+                  <author>Ram, Robert, d. 1657.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright, in the Old-Baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The words "1 the iustification 2 the qualification" are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "Aprill: 8:th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Puritans --  Catechisms --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169445:1" rendition="simple:additions"/>
+            <p>THE SOULDIERS CATECHISME: Compoſed for <hi>The Parliaments Army:</hi> Conſiſting of two Parts: wherein are chiefly taught:
+<list>
+                  <item>1 <hi>The Iuſtification of our Souldiers.</hi>
+                  </item>
+                  <item>2 <hi>The Qualification of our Souldiers.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Written for the Incouragement and In<g ref="char:EOLhyphen"/>ſtruction of all that have taken up Armes in this Cauſe of God and his People; eſpe<g ref="char:EOLhyphen"/>cially the common Souldiers.</p>
+            <q>
+               <bibl>
+                  <hi>2 Sam. 10.12.</hi>
+               </bibl>
+               <p>Be of good courage, and let us play the men for our people, and for the Ci<g ref="char:EOLhyphen"/>ties of our God, and the Lord do that which ſeemeth him good.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Deut. 23.9.</hi>
+               </bibl>
+               <p>When the Hoſt goeth forth againſt thine enemies, then keepe thee from every wicked thing.</p>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>JA. CRANFORD.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Printed for</hi> J. Wright <hi>in the Old-Baily.</hi> 1644</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:169445:2"/>
+            <pb n="1" facs="tcp:169445:2"/>
+            <head>
+               <hi>THE SOULDIERS CATECHISME:</hi> Compoſed for the Parliaments Armie.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat Profeſſion are you of?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> I am a Chriſtian and a ſouldier.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Is it lawfull for Chriſtians to be ſouldiers?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea doubtleſſe: we have Arguments enough to warrant it.</p>
+            <p n="1">1. God calls himſelf a man of war, and Lord of Hoſts.</p>
+            <p n="2">2. <hi>Abraham</hi> had a Regiment of 318. Trained men.</p>
+            <p n="3">3. <hi>David</hi> was imployed in fighting the Lords battels.</p>
+            <p n="4">4. The Holy Ghoſt makes honourable men<g ref="char:EOLhyphen"/>tion of <hi>Davids</hi> Worthies.</p>
+            <pb n="2" facs="tcp:169445:3"/>
+            <p n="5">5. God himſelfe taught <hi>David</hi> to fight.</p>
+            <p n="6">6. The noble gift of valour is given for this purpoſe.</p>
+            <p n="7">7. The New Teſtament mentioneth two fa<g ref="char:EOLhyphen"/>mous Centurions.</p>
+            <p n="8">8. The Baptiſt doth not require the ſouldi<g ref="char:EOLhyphen"/>ers to leave their profeſſion,
+<hi>Luke</hi> 3.14.</p>
+            <p n="9">9. Many compariſons are taken from this Calling in the New Teſtament.</p>
+            <p n="10">10. There have been many famous Martyrs of this profeſſion.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What does our Saviour meane then by thoſe words?</hi> Mat. 5.39.</p>
+            <p n="1">
+               <label>A.</label> 1. Chriſt there onely forbids private re<g ref="char:EOLhyphen"/>venge and reſiſtance.</p>
+            <p n="2">2. Scripture is the beſt interpreter of Scri<g ref="char:EOLhyphen"/>pture: we know that other places of Scripture do warrant taking up of Arms in ſome caſes.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſide are you of, and for whom do<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you fight?</hi>
+            </p>
+            <p>
+               <label>A.</label> I am for King and Parliament: or, in plainer termes;</p>
+            <p n="1">1. I fight to recover the King out of the hands of a Popiſh Malignant Company, that have ſe<g ref="char:EOLhyphen"/>duced His Majeſty with their wicked Counſels, and have withdrawne him from his Parliament.</p>
+            <p n="2">2. I fight for the Lawes and Liberties of my Countrey, which are now in danger to be over<g ref="char:EOLhyphen"/>throwne by them that have long laboured to
+<pb n="3" facs="tcp:169445:3"/>bring into this Kingdome an Arbitrary, and Ty<g ref="char:EOLhyphen"/>rannicall Government.</p>
+            <p n="3">3. I fight for the preſervation of our Parlia<g ref="char:EOLhyphen"/>ment, in the being whereof (under God) con<g ref="char:EOLhyphen"/>ſiſts the glory and welfare of this Kingdome; if this Foundation be overthrown, we ſhall ſoone bee the moſt ſlaviſh Nation in the Chriſtian World.</p>
+            <p n="4">4. I fight in the defence and maintenance of the true Proteſtant Religion, which is now vio<g ref="char:EOLhyphen"/>lently oppoſed, and will be utterly ſuppreſt in this Kingdome; and the Popiſh Religion again advanced, if the Armies raiſed againſt the Parlia<g ref="char:EOLhyphen"/>ment prevaile.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But is it not againſt the King that you fight in this Cauſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> No ſurely: yet many do abuſe the world with this baſe and abſurd objection: our onely aime is,</p>
+            <p n="1">1. To reſcue the King out of the hands of his and the Kingdomes enemies; and to maintaine his Honour and juſt Prerogatives.</p>
+            <p n="2">2. We endeavour to defend that which the King is bound to defend, both by his Oath and Office.</p>
+            <p n="3">3. Wee take up Armes againſt the enemies of Jeſus Chriſt, who in His Majeſties name make warre againſt the Church and People of God.</p>
+            <pb n="4" facs="tcp:169445:4"/>
+            <p n="4">4. If the King will joine himſelf with them that ſeek the ruine of his people, and the over<g ref="char:EOLhyphen"/>throw of Religion, ſurely both we and all good Subjects, may lawfully ſtand in the defence of both; as the people did againſt King <hi>Saul</hi> in the caſe of <hi>Ionathan,</hi> 1
+<hi>King.</hi> 14.45.</p>
+            <p n="5">5. We do no more then what our Brethren of Scotland did, when they came into this Kingdome with an Army ſome three or foure yeares ſince; whoſe Action the King and both Houſes have cleered from all Rebellion, and they remaine juſtified in what they then did, to all po<g ref="char:EOLhyphen"/>ſterity, by an Act of Parliament.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Hath not the King publiſhed many Prote<g ref="char:EOLhyphen"/>ſtations that he will maintain our Lawes, Liberties and Religion? why then do we feare the ſubverſi<g ref="char:EOLhyphen"/>on of them?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Many things have been publiſhed in his Majeſties name, which in all probability he never ſaw or knew of.</p>
+            <p n="2">2. Though the King himſelfe may intend re<g ref="char:EOLhyphen"/>ally and well, yet the Sonnes of
+<hi>Zervia</hi> are too ſtrong for him.</p>
+            <p n="3">3. It is not to be imagined that a Popiſh Ar<g ref="char:EOLhyphen"/>my will defend the Proteſtant Religion, or law<g ref="char:EOLhyphen"/>leſſe Libertines, the Lawes of the Land.</p>
+            <p n="4">4. We find by wofull experience that he hath many waies failed in divers of thoſe large Pro<g ref="char:EOLhyphen"/>miſes and Proteſtations, notwithſtanding that
+<pb n="5" facs="tcp:169445:4"/>God hath been ſo often called to witneſſe.</p>
+            <p n="5">5. They ſay it is a <hi>Maxime</hi> now at Court, that Faith is not to be kept with Hereticks, and ſuch, doe ſome there, account all true Prote<g ref="char:EOLhyphen"/>ſtants.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>How can you that are Souldiers for the Parliament anſwer that place of Paul,</hi> Rom. 13.1, 2, 3. &amp;c.</p>
+            <p n="1">
+               <label>A.</label> 1. That place requires not obedience to a<g ref="char:EOLhyphen"/>ny unlawfull Commands, neither doth any o<g ref="char:EOLhyphen"/>ther place of Scripture, we are no further to o<g ref="char:EOLhyphen"/>bey man, then may ſtand with the will of God.</p>
+            <p n="2">2. They are groſly miſtaken which ſay the King is the higheſt power; Indeed he is the high<g ref="char:EOLhyphen"/>eſt perſon in his Dominions, but the Lawes and Courts of the Kingdom are above him in pow<g ref="char:EOLhyphen"/>er, and the King himſelf is limited and ſubject to the meaneſt Court in the Land: Therefore ſure<g ref="char:EOLhyphen"/>ly the high Court of Parliament muſt needs bee the higher Power, which not to obey, is to reſiſt the Ordinance of God.</p>
+            <p n="3">3. Suppoſe the King were the Higher Pow<g ref="char:EOLhyphen"/>er, yet if he ſhall intend or permit the ruine of his Subjects, both nature and grace allowes peo<g ref="char:EOLhyphen"/>ple to preſerve themſelves.</p>
+            <p n="4">4. If the King be the higher power by con<g ref="char:EOLhyphen"/>ſtitution, yet is his power now in other hands by uſurpation. The Queen, <hi>Iermin, Briſtol, Digby, Cottington, Windebanke, Porter,</hi> and many o<g ref="char:EOLhyphen"/>thers
+<pb n="6" facs="tcp:169445:5"/>have for a long time, and do ſtill mannage the greateſt affaires of the Kingdome; ſo that it were a miſerable thing to be ſubjected in con<g ref="char:EOLhyphen"/>ſcience (as that Text imports, if ſome mens ex<g ref="char:EOLhyphen"/>poſition might paſſe for orthodox Divinity) to ſuch enemies and incendiaries both of Church and Commonwealth.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is it that moves you to take up Arms, and to ingage your ſelfe in this Civill Warre?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. The love I beare to my Countrey.</p>
+            <p n="2">2. The preſervation of our Parliament, Laws and Liberties.</p>
+            <p n="3">3. The defence of our Religion againſt Po<g ref="char:EOLhyphen"/>perie.</p>
+            <p n="4">4. The care of our Poſterity.</p>
+            <p n="5">5. The generall forwardneſſe of all good people.</p>
+            <p n="6">6. The conſent, and provocation of all Gods Miniſters.</p>
+            <p n="7">7. The command of the Parliament, which is the Higher Power.</p>
+            <p n="8">8. The neceſſity that now lies upon all that feare God in the Land.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What do you think then of thoſe Prote<g ref="char:EOLhyphen"/>ſtants which ſit ſtill, and do not put forth them<g ref="char:EOLhyphen"/>ſelves in theſe times?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Either they are not convinced of the neceſſity.</p>
+            <p n="2">2. Or they are but luke-warme Profeſſors.</p>
+            <pb n="7" facs="tcp:169445:5"/>
+            <p n="3">3. Or they are of baſe and private ſpirits.</p>
+            <p n="4">4. Or they are faint-hearted cowards.</p>
+            <p n="5">5. Or they are ſecret enemies to God and his Cauſe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What danger are ſuch Newters in?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. God takes ſpeciall notice of their diſ<g ref="char:EOLhyphen"/>poſition and carriage, and will deale with them accordingly.</p>
+            <p n="2">2. In Gods account all ſuch are enemies; they that are not with him are againſt him.</p>
+            <p n="3">3. They deſerve neither reſpect nor protecti<g ref="char:EOLhyphen"/>on from Church or Commonwealth.</p>
+            <p n="4">4. They are in danger to be ſpued out of Chriſts mouth, <hi>Rev.</hi> 3.16.</p>
+            <p n="5">5. They are directly under that dreadful curſe which the Angell of the Lord denounced againſt <hi>Meroſh,</hi> Judg. 5.23.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What ſay you then of thoſe Proteſtants, which fight on the other ſide, and joyne with the Enemies of our Religion, Parliament, and Countrey?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. I ſay, that they are unworthy the name of Proteſtants.</p>
+            <p n="2">2. I ſay, that they maintain the cauſe of An<g ref="char:EOLhyphen"/>tichriſt.</p>
+            <p n="3">3. That they are the ſhame and blemiſhes of Religion.</p>
+            <p n="4">4. That none of their weapons ſhall proſper, <hi>Iſa.</hi> 54.17.</p>
+            <pb n="8" facs="tcp:169445:6"/>
+            <p n="5">5. That God will utterly undoe them, <hi>Zeph.</hi> 3.19.</p>
+            <p n="6">6 That their ſwords ſhall enter into their owne hearts, <hi>Pſal.</hi> 37.15.</p>
+            <p n="7">7. That all the blood that hath been ſhed lies upon their ſcore.</p>
+            <p n="8">8. That they are in the high-way to perditi<g ref="char:EOLhyphen"/>on, without repentance.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is the reaſon thinke you, that ſo ma<g ref="char:EOLhyphen"/>ny Proteſtants, of all degrees, joyne with our Po<g ref="char:EOLhyphen"/>piſh enemies?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Many are onely Proteſtants in name, but indeed are Papiſts, or Atheiſts in heart.</p>
+            <p n="2">2. Many are drawne in to joyn with that Party out of a baſe feare of ſuffering in their e<g ref="char:EOLhyphen"/>ſtates, ſuppoſing the Kings ſide would be the ſafeſt.</p>
+            <p n="3">3. Many to avoid the Juſtice of Parliament, have hazarded the ruine of their Countrey, to ſave themſelves from their deſerved puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="4">4. Many have ingaged themſelves with the Kings Party, in hope to make up their broken fortunes.</p>
+            <p n="5">5. Many for feare of Reformation, which they are not able to indure, and therefore joyne with them that oppoſe it.</p>
+            <p n="6">6. Many out of a deſperate ſpirit of Malig<g ref="char:EOLhyphen"/>nancy, and an implacable enmity againſt the peo<g ref="char:EOLhyphen"/>ple
+<pb n="9" facs="tcp:169445:6"/>of God, and all goodneſſe.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is it that you chiefly aime at in this warre?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. At the pulling down of Babylon, and rewarding her as ſhe hath ſerved us, <hi>Pſal.</hi> 137.8</p>
+            <p n="2">2. At the ſuppreſſion of an Antichriſtian Prelacy, conſiſting of Archbiſhops, Biſhops, &amp;c</p>
+            <p n="3">3. At the Reformation of a moſt corrupt, lazie, infamous, ſuperſtitious, ſoule-murdering Clergie.</p>
+            <p n="4">4. At the advancement of Chriſts Kingdome and the purity of his Ordinances.</p>
+            <p n="5">5. At the bringing to Juſtice the enemies of our Church and State.</p>
+            <p n="6">6. At the regulating of our Courts of Juſtice, which have been made the ſeats of iniquity and unrighteouſneſſe.</p>
+            <p n="7">7. At the upholding of our Parliaments, which are the Subjects beſt Inheritance, and the Crowne of our Nation.</p>
+            <p n="8">8. At the preſervation, and continuing of the Goſpell to our poſterity, and the generations to come.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What hopes have you of prevailing in this Cauſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> We have incouragements enough to aſ<g ref="char:EOLhyphen"/>ſure us of good ſucceſſe: there be many argu<g ref="char:EOLhyphen"/>ments to confirm our hope.</p>
+            <p n="1">1. From the juſtneſſe and goodneſſe of the Cauſe.</p>
+            <pb n="10" facs="tcp:169445:7"/>
+            <p n="2">2. From the courſe that hath been taken.</p>
+            <p n="3">3. From the condition of thoſe that are inga<g ref="char:EOLhyphen"/>ged in the buſineſſe.</p>
+            <p n="4">4. From the quality of our enemies.</p>
+            <p n="5">5. From the cheerfullneſſe of moſt mens ſpi<g ref="char:EOLhyphen"/>rits in this Action.</p>
+            <p n="6">6. From the many defeats and victories al<g ref="char:EOLhyphen"/>ready given and obtained.</p>
+            <p n="7">7. From the aſſiſtance of our Brethren of Scotland.</p>
+            <p n="8">8. From the Covenant which all the well-affected of the Kingdome have entred into.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Explaine theſe more particularly and in order, and firſt ſhew me what hopes you conceive from the goodneſſe of the Cauſe?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. A good Cauſe puts life and courage into mens hearts.</p>
+            <p n="2">2. A good Cauſe hath GOD ever ſiding with it.</p>
+            <p n="3">3. A good Cauſe daunts and diſmays the ad<g ref="char:EOLhyphen"/>verſe party.</p>
+            <p n="4">4. A good Cauſe will undoubtedly prevaile at laſt.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What is your incouragement from the courſe that hath been taken?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. In that all faire and Chriſtian waies have been attempted before wee tooke up Armes.</p>
+            <p n="2">2. In that the Lord was ſolemnly and ge<g ref="char:EOLhyphen"/>nerally
+<pb n="11" facs="tcp:169445:7"/>ſought unto before this buſineſſe was un<g ref="char:EOLhyphen"/>dertaken.</p>
+            <p n="3">3. In that it was undertaken with good ad<g ref="char:EOLhyphen"/>vice, and is guided by a multitude of Counſel<g ref="char:EOLhyphen"/>lors.</p>
+            <p n="4">4. In that it is ſtill followed with the Pray<g ref="char:EOLhyphen"/>ers and humiliations of all the faithfull in the Land.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What hope have you from them that are in<g ref="char:EOLhyphen"/>gaged in this Warre?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Becauſe all the faithfull and godly Mi<g ref="char:EOLhyphen"/>niſters of the Kingdome, do ſide with us in this Cauſe.</p>
+            <p n="2">2. Becauſe the moſt of our Commanders are men of diſ-ingaged and Publique Spi<g ref="char:EOLhyphen"/>rits.</p>
+            <p n="3">3. Becauſe our men generally are ſo full of courage and reſolution.</p>
+            <p n="4">4. Becauſe we have ſo many godly and reli<g ref="char:EOLhyphen"/>gious Souldiers in our Armies.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What from the quality of your enemies?</hi>
+            </p>
+            <p>
+               <label>A.</label> Wee may conclude that God will not proſper them.</p>
+            <p n="1">1. Becauſe they are for the moſt part Pa<g ref="char:EOLhyphen"/>piſts and Atheiſts, with whom we have to deale.</p>
+            <p n="2">2. Becauſe they are generally the moſt horrible Curſers and Plaſphemers in the World.</p>
+            <pb n="12" facs="tcp:169445:8"/>
+            <p n="3">3. Becauſe they are, for the moſt part, inhu<g ref="char:EOLhyphen"/>mane, barbarous and cruell.</p>
+            <p n="4">4. Becauſe they are enemies to God, and the power of goodneſſe, and therefore the Lord will ſcatter them.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doe you gather from the cheerfulneſſe of their ſpirits, that are of your party?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. 'Tis an Argument that God hath rai<g ref="char:EOLhyphen"/>ſed his ſervants to do ſome great worke, <hi>Pſal.</hi> 149.5.9.</p>
+            <p n="2">2. 'Tis an Argument that God will proſper thoſe whom he hath made ſo willing,
+<hi>Iudg.</hi> 5.2.</p>
+            <p n="3">3. 'Tis an Argument that ſuch as are ſo wil<g ref="char:EOLhyphen"/>ling and cheerfull in this buſineſſe, will goe on couragiouſly.</p>
+            <p n="4">4. 'Tis an Argument that they are ſo well aſſured of the goodneſſe of their Cauſe, that they will live and die in it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>What doe you conclude from the good ſuc<g ref="char:EOLhyphen"/>ceſſe that your ſide hath already had?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. That Almighty God declares himſelfe a friend to our Party.</p>
+            <p n="2">2. That he hath already much abated the cou<g ref="char:EOLhyphen"/>rage of our enemies.</p>
+            <p n="3">3. That we have all the reaſon in the World to truſt God for the future, who hath done ſo much for us.</p>
+            <p n="4">4. That the Lord will glorifie himſelf more and more in his Churches behalf.</p>
+            <pb n="13" facs="tcp:169445:8"/>
+            <p>
+               <label>Q.</label> 
+               <hi>What hopes have you from your Brethren of Scotland?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. We have cauſe to acknowledge Gods great mercy in bringing them to our aſſiſtance at this time.</p>
+            <p n="2">2. Their numbers and preparations are great, and they a couragious and warlike Nation.</p>
+            <p n="3">3. They have given ſufficient teſtimony of late of their love and faithfullneſſe towards our Nation.</p>
+            <p n="4">4. They are as much concerned in this Quar<g ref="char:EOLhyphen"/>rell as wee, and are reſolved to joine with us in it.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But what grounds have you to comfort your ſelves from the National Covenant, which you ſay ſo many have entred into?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Becauſe it is a teſtimony of our gene<g ref="char:EOLhyphen"/>rall humiliation, and a good beginning of Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p n="2">2. Becauſe it is the joy and deſire of all good Chriſtians throughout the Land.</p>
+            <p n="3">3. Becauſe Popery never received ſo deadly a blow in this Kingdome, as by this Cove<g ref="char:EOLhyphen"/>nant.</p>
+            <p n="4">4. Becauſe all the Parliaments affaires have proſpered well ſince the Covenant was taken, witneſſe our many victories and ſucceſſes: As 1. Gloceſter, 2. Newbury, 3. Winchby, neete Horne-Caſtle, 4. Hull, the ſame day, 5. Lin<g ref="char:EOLhyphen"/>colne,
+<pb n="14" facs="tcp:169445:9"/>6. Gainsborough, 7. Arundell Caſtle, 8. Nantwich, 9. Alsford near Wincheſter, beſides many other defeats given the enemy, and divers other places of leſſer note recovered, without a<g ref="char:EOLhyphen"/>ny conſiderable loſſe on our ſide.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>But is it not a lamentable thing that Chri<g ref="char:EOLhyphen"/>ſtians of the ſame Nation, ſhould thus imbrue their hands in one anothers blood?</hi>
+            </p>
+            <p>
+               <label>A.</label> I confeſſe it is: But as the caſe now ſtands, there is an inevitable and abſolute neceſſi<g ref="char:EOLhyphen"/>ty of fighting laid upon the good people of the Land.</p>
+            <p n="1">1. Is it not high time to ſtand upon our guard, when our enemies have drawn their Swords up<g ref="char:EOLhyphen"/>on us, to invade our perſons, and whatſoever is dear to us.</p>
+            <p n="2">2. God now calls upon us to avenge the blood of his Saints that hath been ſhed in the Land, and thoſe many outrages which have been committed againſt his ſervants.</p>
+            <p n="3">3. The whole Church of God calls upon us to come in to the help of the Lord and his peo<g ref="char:EOLhyphen"/>ple againſt the mighty.</p>
+            <p n="4">4. Our children and poſterity call upon us to maintain thoſe Liberties, and that Goſpel, which, we received from our fore-fathers.</p>
+            <p n="5">5. We are not now to look at our enemies as Country-men, or Kinſmen, or fellow-Prote<g ref="char:EOLhyphen"/>ſtants, but as the enemies of God and our Reli<g ref="char:EOLhyphen"/>gion,
+<pb n="15" facs="tcp:169445:9"/>and ſiders with Antichriſt; and ſo our eye is not to pitie them, nor our ſword to ſpare them, <hi>Ier.</hi> 48.10.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>There are a great many on the Kings Party that have beene held honeſt men, &amp;c. will your ſword make no difference betweene them and others?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. If they joyn themſelves with the ma<g ref="char:EOLhyphen"/>lignant Party, we cannot know them from Ma<g ref="char:EOLhyphen"/>lignants.</p>
+            <p n="2">2. It is to be feared, that ſuch were never of us, becauſe they are ſo cruell againſt us: hypo<g ref="char:EOLhyphen"/>crites commonly when they are unmaskt, prove the moſt dangerous enemies.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Who do you thinke were the Authors, and occaſioners of this unnaturall Warre?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. The Jeſuites, thoſe fire-brands of miſchiefe, with all the Popiſh party.</p>
+            <p n="2">2. The Biſhops, and the rotten Clergie, with all the Prelaticall party.</p>
+            <p n="3">3. The Delinquents, that were not able to abide the triall of Juſtice, with all the Malig<g ref="char:EOLhyphen"/>nant party.</p>
+            <p n="4">4. The formall Goſpellers of the Kingdome, that hate a Reformation, with all the Atheiſti<g ref="char:EOLhyphen"/>all party.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Do not many of them that you count your enemies, ſtand for Religion as well as you?</hi>
+            </p>
+            <p n="1">
+               <label>A.</label> 1. Surely they are mad, that thinke the
+<pb n="16" facs="tcp:169445:10"/>Papiſts will fight in defence of the Proteſtant Religion.</p>
+            <p n="2">2. They are very ſimple, that expect any care of the true Religion from the Prelates and their party, who have beene the grand perſecu<g ref="char:EOLhyphen"/>ters of it.</p>
+            <p n="3">3. Neither is it to be imagined, that men ſo looſe, lewd, and wicked, as moſt of your Cava<g ref="char:EOLhyphen"/>liers are, ſhould really intend the preſervation of Religion, or any thing elſe that is good.</p>
+            <p n="4">4. We know the Earl of <hi>Newcaſtle</hi> pretends that he fight for Religion, yet his Army is for the moſt part Popiſh, and he ſaid not long ſince, That men might talk of Religion, and ſo forth, but Religion of it ſelfe was but an ayerie thing.</p>
+            <p n="5">5. Their rage and madneſſe againſt thoſe that they know to have been moſt zealous and for<g ref="char:EOLhyphen"/>ward in the maintenance and profeſſion of the Proteſtant Religion, doth ſufficiently ſhew how cordially they ſtand for Religion.</p>
+            <p n="6">6. Indeed they do ſtand for Religion, but juſt as the Epheſians ſtood for
+<hi>Diana,</hi> Acts 17.</p>
+            <list>
+               <item>1. They ſtand for a Popiſh Prelacie.</item>
+               <item>2. They ſtand for an Ignominious Clergie.</item>
+               <item>3. They ſtand for the ſoule-ſtarving Service-Booke.</item>
+               <item>4. They ſtand for a companie of ſtinking Ce<g ref="char:EOLhyphen"/>remonies.</item>
+               <item>5. They ſtand for abominable Monuments of Idolatrie.</item>
+               <pb n="17" facs="tcp:169445:10"/>
+               <item>6. They ſtand for unchriſtian liberty.</item>
+            </list>
+            <p>
+               <label>Q.</label> 
+               <hi>Do you think that there will be a Reforma<g ref="char:EOLhyphen"/>tion of theſe things before we ſhall injoy any peace?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea doubtleſſe: and I gather it from theſe Reaſons.</p>
+            <p n="1">1. Becauſe Gods anger is let looſe upon this Nation for theſe things.</p>
+            <p n="2">2. Becauſe about this time hundred years Po<g ref="char:EOLhyphen"/>perie was ſuppreſſed in this Kingdome; and it is noted, that every Centurie, or hundred years, hath produced great alterations in the Church.</p>
+            <p n="3">3. Becauſe it is Reformation that our Ene<g ref="char:EOLhyphen"/>mies do moſt feare.</p>
+            <p n="4">4. Becauſe the Devill and his Inſtruments do ſo beſtirre themſelves at this time.</p>
+            <p n="5">5. Becauſe all the reformed Churches in Chriſtendome pray for and expect our Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p n="6">6. Becauſe the meaſure of our enemies ini<g ref="char:EOLhyphen"/>quity is now full.</p>
+            <p n="7">7. Becauſe a ſolemne Oath and Covenant is taken to that purpoſe.</p>
+            <div n="2" type="part">
+               <pb n="18" facs="tcp:169445:11"/>
+               <head>The Second Part of the Soul<g ref="char:EOLhyphen"/>diers Catechiſme.</head>
+               <p>
+                  <label>Q.</label> 
+                  <hi>WHat are the principall things requi<g ref="char:EOLhyphen"/>red in a Souldier?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. That hee bee religious and godly.</p>
+               <p n="2">2. That he be couragious and valiant.</p>
+               <p n="3">3. That he be skilfull in the Militarie Pro<g ref="char:EOLhyphen"/>feſſion.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How do you prove that our ſouldiers ſhould be religious?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. By Scripture: <hi>Deut.</hi> 23.9. <hi>Luk.</hi> 3.14.</p>
+               <p n="2">2. Beſides, there be many Reaſons to con<g ref="char:EOLhyphen"/>firme it.</p>
+               <p n="1">1. Becauſe they lie ſo open to death.</p>
+               <p n="2">2. They ſtand in continuall need of Gods aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+               <p n="3">3. They fight for Religion and Reformation.</p>
+               <p n="4">4. God hath rais'd them up to execute juſtice.</p>
+               <p n="5">5. Men may be as religious in this Profeſſion as in any other.</p>
+               <p n="6">6. We read of brave ſouldiers that have been very religious.</p>
+               <p n="7">7. A well ordered Camp is a Schoole of Ver<g ref="char:EOLhyphen"/>tue,
+<pb n="19" facs="tcp:169445:11"/>wherein is taught, 1. Preparation to death, 2. Continencie, 3. Vigilancie, 4. Obedience, 5. Hardneſſe, 6. Temperance, 7. Humilitie, 8. Devotion, &amp;c.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Who do chiefly offend againſt this Rule?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Such ſouldiers as give themſelves to whoring and uncleanneſſe.</p>
+               <p n="2">2. Such as uſe to ſweare, and blaſpheme the name of God.</p>
+               <p n="3">3. Such as follow that ſwiniſh ſin of drun<g ref="char:EOLhyphen"/>kenneſſe.</p>
+               <p n="4">4. Such as plunder and ſteale whatſoever they come neare.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Are not theſe things tolerable in ſouldiers?</hi>
+               </p>
+               <p>
+                  <label>A.</label> No more in them then other men: the Scripture ſaith generally to and of all men what<g ref="char:EOLhyphen"/>ſoever:
+<list>
+                     <item>1. That whoremongers and adulterers God will judge, <hi>Heb.</hi> 13.5.</item>
+                     <item>2. That the Lord will not hold him guiltleſſe that taketh his Name in vaine.</item>
+                     <item>3. That drunkards ſhall not inherit the King<g ref="char:EOLhyphen"/>dome of God, 1 <hi>Cor.</hi> 6.9, 10.</item>
+                     <item>4. That he that doth wrong, ſhall receive for the wrong he hath done, and there is no reſpect of perſons, <hi>Col.</hi> 3. <hi>ult.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What is the reaſon then that there be ſo ma<g ref="char:EOLhyphen"/>ny lewd and wicked men in the Parliaments Army?</hi>
+               </p>
+               <pb n="20" facs="tcp:169445:12"/>
+               <p n="1">
+                  <label>A.</label> 1. Becauſe Commanders in Chief are not more carefull in chooſing godly Officers.</p>
+               <p n="2">2. Becauſe honeſt religious men are not more forward to put forth themſelves in this ſervice of God and his Church.</p>
+               <p n="3">3. Becauſe Order and Diſcipline is not more ſtrictly executed by Superiours.</p>
+               <p n="4">4. Becauſe Officers in Towns and Countrie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aimto preſſe the ſcumme and refuſe of men, and ſo by eaſing themſelves, peſture our Armies with baſe conditioned people.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How can we expect a bleſſing upon our pre<g ref="char:EOLhyphen"/>parations, when ſo many godleſſe wretches are im<g ref="char:EOLhyphen"/>ployed in our Armies?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Truly it is a very ſad thing, and much to be lamented, and requires the care of the State to remedy.</p>
+               <p n="2">2. Yet (bleſſed be God) we have multitudes of godly and eminent Chriſtians that are inga<g ref="char:EOLhyphen"/>ged in the Parliaments Service.</p>
+               <p n="3">3. And beſides, we know that God can make uſe of wicked men to ſerve his providence, as he doth of wicked Angells.</p>
+               <p n="4">4. We have many inſtances of bad men that have done good ſervice to God and his Church as <hi>Saul, Ioab, &amp;c.</hi>
+               </p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Is it well done of ſome of your Souldiers (which ſeem to be religious) to break down Croſ<g ref="char:EOLhyphen"/>ſes and Images where they meet with any?</hi>
+               </p>
+               <pb n="21" facs="tcp:169445:12"/>
+               <p n="1">
+                  <label>A.</label> 1. I confeſſe that nothing ought to be done in a tumultuous manner.</p>
+               <p n="2">2. But ſeeing God hath put the Sword of Reformation into the Souldiers hand, I thinke it is not amiſſe that they ſhould cancell and demo<g ref="char:EOLhyphen"/>liſh thoſe Monuments of Superſtition and Ido<g ref="char:EOLhyphen"/>latry, eſpecially ſeeing the Magiſtrate and the Miniſter that ſhould have done it formerly, neg<g ref="char:EOLhyphen"/>lected it.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>But what ſay you to their tearing and bur<g ref="char:EOLhyphen"/>ning the Books of Common Prayer, in every place where they come?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Much may be ſaid in their juſtification, who ſhew themſelves ſo zealous againſt that Booke.</p>
+               <p n="1">1. It hath been the fomenter of a moſt lazie lewd, and ignorant Miniſtry.</p>
+               <p n="2">2. It hath been the Nurſe of that lamentable blindneſſe and ignorance, which hath overſpread many parts of this Kingdome.</p>
+               <p n="3">3. It is a great cauſe of our preſent calami<g ref="char:EOLhyphen"/>ties, for who are they that ſide with our Popiſh Enemies, but Common-Prayer men?</p>
+               <p n="4">4. It is become the moſt abominable Idoll in the Land, people generally doe doat upon it, as much as the Epheſians upon <hi>Diana;</hi> and prefer it before Preaching in many places, being ſtrange<g ref="char:EOLhyphen"/>ly inraged for the want of it.</p>
+               <p n="5">5. It is high time therefore to remove this
+<pb n="22" facs="tcp:169445:13"/>Brazen Serpent, and grinde it to powder, ſeeing it is the occaſion of ſo much evill.</p>
+               <p n="6">6. It is very likely therefore that God hath ſtirred up the ſpirits of ſome honeſt ſouldiers to be his Inſtruments for the deſtruction of that Idoll.</p>
+               <p n="7">7. It belongs to the Parliament Souldiers, up<g ref="char:EOLhyphen"/>on the matter, to remove all ſcandalous things they meet with, having covenanted, and inga<g ref="char:EOLhyphen"/>ged themſelves in the work of Reformation.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What doe you ſay concerning valour and courage?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. I ſay, it is a moſt noble and heroicall vertue, that makes ſome men differ from others, as much as all men differ from beaſts.</p>
+               <p n="2">2. I ſay, it is impoſsible for any to be a good ſouldier without it. An Army of Harts led by a Lion, is better then an Army of Lions led by a Hart.</p>
+               <p n="3">3. I ſay, that one valiant man in an Army, is better then a thouſand cowards.</p>
+               <p n="4">4. I ſay, that a coward degenerates from man, being of a baſe and ignoble nature.</p>
+               <list>
+                  <item>1. God took ſpeciall care, that all faint-hear<g ref="char:EOLhyphen"/>ted cowards ſhould be caſhiered out of his Ar<g ref="char:EOLhyphen"/>mies, <hi>Deut.</hi> 20.8.</item>
+                  <item>2. Cowards ever do more hurt then good, be<g ref="char:EOLhyphen"/>ing like an X before an L.</item>
+                  <item>3. And for the moſt part cowards miſcarrie
+<pb n="23" facs="tcp:169445:13"/>ſooner then thoſe that are couragious.</item>
+               </list>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What are the chiefe Arguments and conſi<g ref="char:EOLhyphen"/>derations to make a ſouldier couragious in the Parliaments Service?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. The goodneſſe of the Cauſe, which un<g ref="char:EOLhyphen"/>doubtedly is Gods, and his Churches.</p>
+               <p n="2">2. The promiſe of God, to help his Church and People againſt his and his Churches Ene<g ref="char:EOLhyphen"/>mies.</p>
+               <p n="3">3. The manifold experiences that the people of God have had in former ages of his aſſiſtance.</p>
+               <p n="4">4. The manifold experiences of Gods ſpeciall goodneſſe to his ſervants in theſe times.</p>
+               <p n="5">5. The aſſurance, that not a haire can fall from our heads without the providence and permiſſi<g ref="char:EOLhyphen"/>on of God.</p>
+               <p n="6">6. The danger of faint-heartedneſſe; he that would ſave his life in ſuch times as theſe, ſhall loſe it.</p>
+               <p n="7">7. The promiſe, that whoſoever ſhall loſe his life, or any thing els, in the Cauſe of Chriſt and his Goſpell, ſhall be a great gainer by the hand.</p>
+               <p n="8">8. The conſideration that this Warre is ſur<g ref="char:EOLhyphen"/>rounded with the prayers and bleſſings of all the good people of the Land.</p>
+               <p n="9">9. The multitude of eminent Chriſtians, of all ſorts, that are ingaged in this buſineſſe.</p>
+               <p n="10">10. The great reward of honour here, and glo<g ref="char:EOLhyphen"/>ry hereafter, that ſhall be given to every one
+<pb n="24" facs="tcp:169445:14"/>that is valiant for the Lord.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What are the principall enemies to courage and valour?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Want of experience: freſh-water ſouldiers are commonly faint-hearted ſouldiers; whereas they that have been uſed to the Warres are uſually of undaunted ſpirits.</p>
+               <p n="2">2. Want of metall: ſome mens ſpirits are naturally ſo low and baſe, that they will never prove good ſouldiers: as it is with cocks, ſo is it amongſt men: there is a breed and generation of cravens.</p>
+               <p n="3">3. Want of Faith: when a man hath little or no confidence in God, his heart muſt needs faile him in undertakings of danger; whereas Faith feares not in the valley of the ſhadow of death, <hi>Pſal.</hi> 23.4.</p>
+               <p n="4">4. Want of innocency, and a good conſci<g ref="char:EOLhyphen"/>ence, <hi>Prov.</hi> 28.1. It was the ſpeech of the valo<g ref="char:EOLhyphen"/>rous Earle of <hi>Eſſex,</hi> our renowned Generals Father, (cited by D.
+<hi>Barlow</hi> in his Sermon at <hi>Pauls</hi> Croſſe, <hi>March</hi> 1.1600) That ſomtimes in the field encountering the enemy, the weight of his ſinnes lying heavie upon his conſcience, being not reconciled to God, quelled his ſpirits, and made him the moſt timerous man that might be.</p>
+               <p n="5">5. Want of wiſdome and conſideration: for ſurely if men would ſeriouſly conſider the evills
+<pb n="25" facs="tcp:169445:14"/>of cowardice, and the excellency of valour, it would make them abhorre the one, and be ambi<g ref="char:EOLhyphen"/>tious of the other.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>Is there any great need of skill and cun<g ref="char:EOLhyphen"/>ning in this Profeſſion?</hi>
+               </p>
+               <p>
+                  <label>A.</label> Yea doubtleſſe: for <hi>David</hi> doth thank<g ref="char:EOLhyphen"/>fully acknowledge the Lords goodnes, in teach<g ref="char:EOLhyphen"/>ing his hands to warre, and his fingers to fight, <hi>Pſal.</hi>
+144.1.</p>
+               <p n="1">1. Great wiſdome, policie, and experience is required in Commanders.</p>
+               <p n="2">2. And no leſſe skill and dexterity in common ſouldiers; they muſt know how to handle their Armes, how to keep Ranks, &amp;c.</p>
+               <p n="3">3. Certainly a few well-trained Souldiers are better then a multitude of raw, unexperienced men.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What; ſhould be done to make ſouldiers skilfull in their art?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Officers ſhould bee very diligent in teaching and exerciſing their men.</p>
+               <p n="2">2. Common ſouldiers ſhould make it their bu<g ref="char:EOLhyphen"/>ſineſſe to learn and yet what cunning they can.</p>
+               <p n="3">3. Every ſouldier ſhould ſeeke to God by prayer, that he would inſtruct and teach them: for it is the bleſſing of God that makes men to profit in any profeſſion.</p>
+               <p n="4">4. Both Commanders, Officers, and com<g ref="char:EOLhyphen"/>mon Souldiers may advantage themſelves by
+<pb n="26" facs="tcp:169445:15"/>reading and obſerving what hath been written by eminent Souldiers, of this Act.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How ought Commanders and Officers to carry themſelves towards their Souldiers?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Religiouſly, ſhewing them no evill example, but being a patterne to them of virtue and godlineſſe.</p>
+               <p n="2">2. Lovingly, not in a ſterne rugged manner, conſidering that their Command is not over Beares, But men.</p>
+               <p n="3">3. Diſcreetly, incouraging them moſt that deſerve beſt, and avoiding ſo much familiarity as may breed contempt.</p>
+               <p n="4">4. Juſtly, not defrauding them of their due, nor doing or ſuffering any injury to be done to the meaneſt.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How ſhould inferiour Souldiers demeane themſelves toward their Commanders and Offi<g ref="char:EOLhyphen"/>cers?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. They muſt acknowledge and honour them as Superiours, and account them as men ſet over them by the providence of God and wiſ<g ref="char:EOLhyphen"/>dome of the State.</p>
+               <p n="2">2. They muſt be exactly obedient to their command even for conſcience ſake.
+<hi>Rom.</hi> 13.5. of all men Souldiers are moſt ſtrictly tyed to o<g ref="char:EOLhyphen"/>bedience, the want whereof may prove of very dangerous conſequence.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What ſay you of ſuch Souldiers as are given to mutining?</hi>
+               </p>
+               <pb n="27" facs="tcp:169445:15"/>
+               <p n="1">
+                  <label>A.</label> 1. They are as dangerous Cattle as can belong to an Army.</p>
+               <p n="2">2. They deſerve ſevere puniſhment, and to be utterly caſhiered.</p>
+               <p n="3">3. They will hardly ever prove good Souldi<g ref="char:EOLhyphen"/>diers that are taynted with this humour.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What is your opinion of thoſe Souldiers that run away from their Colours?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. Such are, by Martiall Law, to ſuffer death, and ſurely, they well deſerve it.</p>
+               <p n="2">2. 'Tis a moſt ignoble and baſe part to doe ſo, and they deſerve to be branded with infamy for ever, that are guilty of it.</p>
+               <p n="3">3. Nay it is a fowle wickedneſſe, being offen<g ref="char:EOLhyphen"/>ſive both to God and man,
+<hi>Pſal.</hi> 78.9.</p>
+               <list>
+                  <item>1. For ſuch (if the Cauſe be juſt) doe aban<g ref="char:EOLhyphen"/>don the Cauſe of God.</item>
+                  <item>2. They deceive that truſt which was repo<g ref="char:EOLhyphen"/>ſed in them by the State.</item>
+                  <item>3. As much as in them lies, they betray the Cauſe they have undertaken.</item>
+                  <item>4. They give dangerous example, and may occaſion the overthrow of an Army.</item>
+               </list>
+               <p>
+                  <label>Q.</label> 
+                  <hi>How ought ſouldiers to be incouraged and rewarded?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. They ought to be highly honoured, eſ<g ref="char:EOLhyphen"/>pecially ſuch as have been couragious and faith<g ref="char:EOLhyphen"/>full in their Countreyes Service.</p>
+               <p n="2">2. They ought to be well maintained, with
+<pb n="28" facs="tcp:169445:16"/>ſufficient allowance, while they are abroad in imployment; for no man goeth on warfare at his own charges.</p>
+               <p n="3">3. They that have received any hurt or loſſe by the warres, ought to be liberally provided for, and comfortably maintained all their dayes, by them that ſent them forth.</p>
+               <p>
+                  <label>Q.</label> 
+                  <hi>What Arguments have you to prove, that ſuch honour and reſpect ſhould bee done to our ſouldiers?</hi>
+               </p>
+               <p n="1">
+                  <label>A.</label> 1. They that fight againſt the Churches Enemies, are Gods helpers againſt the mighty, <hi>Iudg.</hi> 5.23.</p>
+               <p n="2">2. They are the Inſtruments of Juſtice, and the Executioners of Gods Judgements,
+<hi>Pſalme</hi> 149.7, 9.</p>
+               <p n="3">3. They ſhew themſelves men of publike ſpi<g ref="char:EOLhyphen"/>rits, and true lovers of their Countrey.</p>
+               <p n="4">4. They ſhew themſelves valiant and coura<g ref="char:EOLhyphen"/>gious, which are very high deſerving qualities.</p>
+               <p n="5">5. No men undergoe ſuch hardſhip and haz<g ref="char:EOLhyphen"/>zard as the ſouldier doth.</p>
+               <p n="6">6. None deſerve better then they, either of Church, Commonwealth, or Poſterity.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
